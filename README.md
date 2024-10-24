@@ -1,5 +1,5 @@
 # code x enmo Battery Optimization Program
-I dette repoet er et eksempel på en optimeringsalgoritme skrevet i python for code x enmo. Koden kan tilpasset til eget behov. 
+I dette repoet er det et eksempel på en optimeringsalgoritme skrevet i python for code x enmo. Koden kan tilpasses etter eget behov. 
 
 ## How to run
 
